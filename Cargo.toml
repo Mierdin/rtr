@@ -1,0 +1,9 @@
+[package]
+name = "rtr"
+version = "0.1.0"
+authors = ["Matt Oswalt <matt@oswalt.dev>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33.0"
+pnet = "0.25.0"
